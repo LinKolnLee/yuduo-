@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>yuduo.ipa</key>
+	<array>
+		<dict>
+			<key>architectures</key>
+			<array>
+				<string>arm64</string>
+			</array>
+			<key>certificate</key>
+			<dict>
+				<key>SHA1</key>
+				<string>ECFB3395EE0394282367C4B1537757A3585D22D3</string>
+				<key>dateExpires</key>
+				<string>2020/11/3</string>
+				<key>type</key>
+				<string>Apple Distribution</string>
+			</dict>
+			<key>embeddedBinaries</key>
+			<array>
+				<dict>
+					<key>architectures</key>
+					<array>
+						<string>armv7</string>
+						<string>arm64</string>
+					</array>
+					<key>certificate</key>
+					<dict>
+						<key>SHA1</key>
+						<string>ECFB3395EE0394282367C4B1537757A3585D22D3</string>
+						<key>dateExpires</key>
+						<string>2020/11/3</string>
+						<key>type</key>
+						<string>Apple Distribution</string>
+					</dict>
+					<key>name</key>
+					<string>AlivcConan.framework</string>
+					<key>team</key>
+					<dict>
+						<key>id</key>
+						<string>AQ5L237TFZ</string>
+						<key>name</key>
+						<string>Beijing Chengqi Culture &amp; Communication Co., Ltd.</string>
+					</dict>
+				</dict>
+				<dict>
+					<key>architectures</key>
+					<array>
+						<string>armv7</string>
+						<string>arm64</string>
+					</array>
+					<key>certificate</key>
+					<dict>
+						<key>SHA1</key>
+						<string>ECFB3395EE0394282367C4B1537757A3585D22D3</string>
+						<key>dateExpires</key>
+						<string>2020/11/3</string>
+						<key>type</key>
+						<string>Apple Distribution</string>
+					</dict>
+					<key>name</key>
+					<string>AliyunMediaDownloader.framework</string>
+					<key>team</key>
+					<dict>
+						<key>id</key>
+						<string>AQ5L237TFZ</string>
+						<key>name</key>
+						<string>Beijing Chengqi Culture &amp; Communication Co., Ltd.</string>
+					</dict>
+				</dict>
+				<dict>
+					<key>architectures</key>
+					<array>
+						<string>armv7</string>
+						<string>arm64</string>
+					</array>
+					<key>certificate</key>
+					<dict>
+						<key>SHA1</key>
+						<string>ECFB3395EE0394282367C4B1537757A3585D22D3</string>
+						<key>dateExpires</key>
+						<string>2020/11/3</string>
+						<key>type</key>
+						<string>Apple Distribution</string>
+					</dict>
+					<key>name</key>
+					<string>AliyunPlayer.framework</string>
+					<key>team</key>
+					<dict>
+						<key>id</key>
+						<string>AQ5L237TFZ</string>
+						<key>name</key>
+						<string>Beijing Chengqi Culture &amp; Communication Co., Ltd.</string>
+					</dict>
+				</dict>
+				<dict>
+					<key>architectures</key>
+					<array>
+						<string>armv7</string>
+						<string>arm64</string>
+					</array>
+					<key>certificate</key>
+					<dict>
+						<key>SHA1</key>
+						<string>ECFB3395EE0394282367C4B1537757A3585D22D3</string>
+						<key>dateExpires</key>
+						<string>2020/11/3</string>
+						<key>type</key>
+						<string>Apple Distribution</string>
+					</dict>
+					<key>name</key>
+					<string>alivcffmpeg.framework</string>
+					<key>team</key>
+					<dict>
+						<key>id</key>
+						<string>AQ5L237TFZ</string>
+						<key>name</key>
+						<string>Beijing Chengqi Culture &amp; Communication Co., Ltd.</string>
+					</dict>
+				</dict>
+				<dict>
+					<key>architectures</key>
+					<array>
+						<string>armv7</string>
+						<string>arm64</string>
+					</array>
+					<key>certificate</key>
+					<dict>
+						<key>SHA1</key>
+						<string>ECFB3395EE0394282367C4B1537757A3585D22D3</string>
+						<key>dateExpires</key>
+						<string>2020/11/3</string>
+						<key>type</key>
+						<string>Apple Distribution</string>
+					</dict>
+					<key>name</key>
+					<string>artpSource.framework</string>
+					<key>team</key>
+					<dict>
+						<key>id</key>
+						<string>AQ5L237TFZ</string>
+						<key>name</key>
+						<string>Beijing Chengqi Culture &amp; Communication Co., Ltd.</string>
+					</dict>
+				</dict>
+			</array>
+			<key>entitlements</key>
+			<dict>
+				<key>application-identifier</key>
+				<string>AQ5L237TFZ.com.yckj.yuduo</string>
+				<key>aps-environment</key>
+				<string>production</string>
+				<key>com.apple.developer.associated-domains</key>
+				<array>
+					<string>applinks:https://cs1.91hzty.com</string>
+				</array>
+				<key>com.apple.developer.team-identifier</key>
+				<string>AQ5L237TFZ</string>
+				<key>get-task-allow</key>
+				<false/>
+			</dict>
+			<key>name</key>
+			<string>yuduo.app</string>
+			<key>profile</key>
+			<dict>
+				<key>UUID</key>
+				<string>66e6ae68-1a78-40da-b7f2-59261003f9bd</string>
+				<key>name</key>
+				<string>iOS Team Ad Hoc Provisioning Profile: com.yckj.yuduo</string>
+			</dict>
+			<key>team</key>
+			<dict>
+				<key>id</key>
+				<string>AQ5L237TFZ</string>
+				<key>name</key>
+				<string>Beijing Chengqi Culture &amp; Communication Co., Ltd.</string>
+			</dict>
+		</dict>
+	</array>
+</dict>
+</plist>
